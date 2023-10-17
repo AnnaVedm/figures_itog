@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "figures_itog", "figures_itog\figures_itog.csproj", "{EDB56EBF-29DA-444B-8021-7DE68A9CCC8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDB56EBF-29DA-444B-8021-7DE68A9CCC8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB56EBF-29DA-444B-8021-7DE68A9CCC8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB56EBF-29DA-444B-8021-7DE68A9CCC8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB56EBF-29DA-444B-8021-7DE68A9CCC8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07B86BB6-4A51-4764-AE3F-76774065CDAD}
+	EndGlobalSection
+EndGlobal
